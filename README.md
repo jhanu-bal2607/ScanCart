@@ -26,3 +26,12 @@ This project showcases the UI/UX design for ScanCart mobile application where us
 - Order accepted screen: Shows the message that order has been accepted.
 - Track order screen: Displays the tracking information.
 - Error screen: Shows that the order failed.
+
+## Design Images
+![WhatsApp Image 2024-07-10 at 17 46 36_bd784d75](https://github.com/jhanu-bal2607/ScanCart/assets/140936201/3969c5af-9abb-425a-9620-b1618b710f2f)
+![WhatsApp Image 2024-07-10 at 17 47 12_fa5c98df](https://github.com/jhanu-bal2607/ScanCart/assets/140936201/9115f90a-2f45-4433-a194-82a4f10d3bb4)
+![WhatsApp Image 2024-07-10 at 17 47 31_2085e79e](https://github.com/jhanu-bal2607/ScanCart/assets/140936201/e21f3907-b247-4c7d-98ab-2826166a099c)
+![WhatsApp Image 2024-07-10 at 17 47 54_34418103](https://github.com/jhanu-bal2607/ScanCart/assets/140936201/702f151a-5730-4f60-8bc7-b2307941ce4d)
+
+### Figma Link
+This is the figma link for the same: https://www.figma.com/proto/xh31jNE0bhF3qkQPs2puXY/ScanCart?node-id=4-37&t=wYfIkDDHIrdEawwc-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A37
