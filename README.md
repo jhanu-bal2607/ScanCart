@@ -28,6 +28,7 @@ This project showcases the UI/UX design for ScanCart mobile application where us
 - Error screen: Shows that the order failed.
 
 ## Design Images
+Splash screen       Landing screen       Home screen      Shop screen      Fruits and veg screen        Bakery screen
 ![WhatsApp Image 2024-07-10 at 17 46 36_bd784d75](https://github.com/jhanu-bal2607/ScanCart/assets/140936201/3969c5af-9abb-425a-9620-b1618b710f2f)
 
 
