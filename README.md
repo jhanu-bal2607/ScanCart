@@ -1,7 +1,7 @@
 # ScanCart
 
 ## Description
-This project showcases the UI/UX design for ScanCart mobile application where users can scan their list and the items are added to their cart. The design aims to provide an intuitive and engaging user experience.
+This project showcases the UI/UX design for ScanCart mobile application where users can scan their list and the items are added to their cart. The design aims to provide an intuitive and engaging user experience. We group of 4 contributed in this project.
 
 ## Design Overview
 - Splash screen: The splash screen is the first screen of the app.
